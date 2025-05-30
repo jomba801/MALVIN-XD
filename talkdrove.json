@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Must Start with 'malvin~'",
       "required": true,
-      "value": ""
+      "value": "malvin~N6EGTAaC#t-3hQSHd1pSJizNdDQIq9LPKI3KYFebqVu39dsAQIfw"
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
@@ -43,7 +43,7 @@
     "PRESENCE": {
       "description": "Put online/typing/recording/unavailable",
       "required": true,
-      "value": "online"
+      "value": "typing"
 
     }
   }
