@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "malvin~N6EGTAaC#t-3hQSHd1pSJizNdDQIq9LPKI3KYFebqVu39dsAQIfw"
     },  
     
     "STICKER_NAME": {
@@ -19,7 +19,7 @@
       "value": "ᴍᴀʟᴠɪɴ-xᴅ"
     }, 
       
-    "PREFIX": {
+    "PREFIX": {.
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
       "value": "."
@@ -92,7 +92,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "26371475XXXX"
+      "value": "255789213397"
 
     }, 
 
@@ -150,7 +150,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
@@ -199,7 +199,7 @@
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }
 
 },
